@@ -25,12 +25,29 @@ It includes features such as user authentication, product listing, product detai
 ## Screens
 
 1. **Login/Sign-Up Screen**: Allows users to sign in or sign up using their email address and password.
+<p float="left">
+  <img src="https://github.com/UK818/Assessment-task/assets/32143087/def7a0a9-bbb5-47bd-841b-8fc1871c5780" width="250" />
+  <img src="https://github.com/UK818/Assessment-task/assets/32143087/12810f16-35ad-4d2c-834a-de478dfc03df" width="250" /> 
+  <img src="https://github.com/UK818/Assessment-task/assets/32143087/75be189c-889d-479b-891d-126c1693da53" width="250" />
+</p>
 
-2. **Product Listing Screen**: Displays a list of products fetched from a mock API (in this case, [Fake Store API](https://fakestoreapi.com/)). Each product shows its name, price, and an image.
 
-3. **Product Detail Screen**: Provides additional information about the selected product, including description, specifications, and user reviews.
+2. **Product Listing Screen**: Displays a list of products fetched from a mock API (in this case, [Fake Store API](https://fakestoreapi.com/)). Each product shows its name, price, and an image.                                                            <p float="left">
+  <img src="https://github.com/UK818/Assessment-task/assets/32143087/5ec2c08f-d931-4056-9be5-45854b47be8f" width="250" />
+  <img src="https://github.com/UK818/Assessment-task/assets/32143087/83587693-1135-43e7-88dd-0d20c90d68a2" width="250" />
+</p>
 
-4. **Favorite Products Screen**: Users can mark products as favorites on the product listing screen by tapping on a heart icon. This screen displays the list of user-selected favorite products.
+
+3. **Product Detail Screen**: Provides additional information about the selected product, including description, specifications, and user reviews.                                                                                                                         <p float="left">
+  <img src="https://github.com/UK818/Assessment-task/assets/32143087/8be2a8d2-b803-4f3b-8380-0d8e9a791b52" width="250" />
+  <img src="https://github.com/UK818/Assessment-task/assets/32143087/746513ce-b03a-4441-a92c-f6011facc6d9" width="250" />
+</p>
+
+
+4. **Favorite Products Screen**: Users can mark products as favorites on the product listing screen by tapping on a heart icon. This screen displays the list of user-selected favorite products.                                                                          <p float="left">
+  <img src="https://github.com/UK818/Assessment-task/assets/32143087/96fad978-bb99-4d2b-83ad-a8b2e0cabc72" width="250" />
+  <img src="https://github.com/UK818/Assessment-task/assets/32143087/a3cf333e-710b-4cdd-ad17-7eeb90934875" width="250" />
+</p>
 
 ## Functionalities
 
